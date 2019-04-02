@@ -14,5 +14,5 @@ https://hackaday.io/project/52950-shitty-add-ons
 
 To program remember the correct pinouts!
 
-![Alt Text](https://imgur.com/Mw303TK)
+![Pinout](https://i.imgur.com/Mw303TK.jpg)
 
